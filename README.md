@@ -1,16 +1,28 @@
-### Hi there 👋
+### Golang developer
+![](https://2.bp.blogspot.com/-5xvOsHhp-jw/WEdhxnTeN0I/AAAAAAAABbs/Xs_aOfeOx2wFFgLAH0_ZZwhFIiKb3WbvwCLcB/s1600/umaru%252Bgolang.png)
 
-<!--
-**MTReload/MTReload** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Familiar with
+---
+- Golang (obvious)
+- PostgreSQL
+- Git
 
-Here are some ideas to get you started:
+Used this
+---
+- jaeger
+- chi
+- prometheus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some expirience with
+---
+- Docker
+- Python
+- C/C++
+- STM32 and Arduino programming
+
+Contact me via
+---
+- Discord: MTR#6907
+- [VK](https://vk.com/mtreload)
+- [Linkedin](https://www.linkedin.com/in/mtreload/)
+
