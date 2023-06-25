@@ -22,7 +22,7 @@ Some expirience with
 
 Contact me via
 ---
-- Discord: MTR#6907
+- Discord: .mtr
 - [VK](https://vk.com/mtreload)
 - [Linkedin](https://www.linkedin.com/in/mtreload/)
 
